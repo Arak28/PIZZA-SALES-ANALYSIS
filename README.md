@@ -1,10 +1,10 @@
 # PIZZA-SALES-ANALYSIS
 
 ## OVERVIEW-
-This project presents an in-depth analysis of pizza sales data using SQL for querying and Microsoft Excel for dashboard creation. SQL was used to extract business-critical KPIs such as total revenue, orders, quantity sold, and product performance. Post-query data cleaning and transformation were performed in Excel, followed by building an interactive dashboard using pivot tables, slicers, and charts to visualize the trends and business insights.
+This project presents in-depth analysis of pizza-sales data using SQL for querying and Microsoft Excel for interactive dashboard. SQL was used to extract important KPIs such as total revenue, orders, quantity sold, and product performance. Post-query data cleaning and transformation were performed in Excel, followed by building an interactive dashboard using pivot tables, slicers, and charts to visualize the primary trends.
 
 ## OBJECTIVE-
-The objective was to derive valuable business insights from raw transactional sales data by:
+The objective was to bring valuable insights from raw sales data by:
 
 1. Analyzing daily, hourly, and monthly trends in pizza orders
 
